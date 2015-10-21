@@ -1,0 +1,9 @@
+{
+	"course":{
+		"id":01,
+		"distance":150,
+		"start":{"x":245,"y":100},
+		"finish":{"x":301,"y":34},
+		"img_url":"/images/img_01.jpg"
+	}
+}
